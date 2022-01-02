@@ -4,7 +4,7 @@
 ```diff
 - Don't Run Them on Your Device.
 - Handle with caution 
-
+```
 
 ## Commands
 git clone https://github.com/Err0r-ICA/Ransomware <br>
