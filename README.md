@@ -3,7 +3,6 @@
 # Ransomwares Collection
 ```diff
 - Don't Run Them on Your Device.
-```didf
 - Handle with caution 
 
 
