@@ -2,9 +2,10 @@
 
 # Ransomwares Collection
 ```diff
-- Don't Run Them on Your Device. <br> 
-Handle with caution <br>
-```
+- Don't Run Them on Your Device.
+```didf
+- Handle with caution 
+
 
 ## Commands
 git clone https://github.com/Err0r-ICA/Ransomware <br>
