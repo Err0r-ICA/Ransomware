@@ -1,20 +1,20 @@
 ![logo](https://i.postimg.cc/63jNrHDL/20200621-180147.png) 
 
-# Ransomwares Collection
+# ☣️ Ransomwares Collection ☣️
 ```diff
 - Don't Run Them on Your Device.
 - Handle with caution 
 ```
 
-## Commands
+## 💿 Installation 💿
 git clone https://github.com/Err0r-ICA/Ransomware <br>
 cd Ransomware <br>
 python3 Ransomware <br>
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/cZ0mh8tb/Screenshot-20200425-144821-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
