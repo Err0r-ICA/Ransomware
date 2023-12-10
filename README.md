@@ -16,9 +16,9 @@ python3 Ransomware <br>
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [TELEGRAM](https://t.me/Cyb3r_Drag0nz)
 
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
+* [FACEBOOK](https://m.facebook.com/profile.php/?id=61551681886488)
 
 * [INSTAGRAM](https://instagram.com/termux_hacking)
 
