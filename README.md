@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/63jNrHDL/20200621-180147.png) 
+![logo](https://i.postimg.cc/qJwVsmT0/OIG3-3.jpg) 
 
 # ☣️ Ransomwares Collection ☣️
 ```diff
